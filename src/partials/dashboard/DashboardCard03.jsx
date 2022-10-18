@@ -111,7 +111,7 @@ function DashboardCard03() {
           Impressions
         </h2>
         <div className='text-xs font-semibold text-slate-400 uppercase mb-1'>
-          Sales
+          Accounts
         </div>
         <div className='flex items-start'>
           <div className='text-3xl font-bold text-slate-800 mr-2'>10,798</div>
